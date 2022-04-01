@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270252594457",
+    "project_id": "health-translation-app",
+    "storage_bucket": "health-translation-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270252594457:android:a14f5565b7c6c82480a188",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270252594457-ruo27s328p1g9l8f5vchh5kr4k7l5huh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2VQ8vCNz_F-tZdL8xlEZe2A7NCPx-rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270252594457-ruo27s328p1g9l8f5vchh5kr4k7l5huh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
